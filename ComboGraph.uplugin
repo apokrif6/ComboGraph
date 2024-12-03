@@ -1,0 +1,29 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1",
+  "FriendlyName": "ComboGraph",
+  "Description": "Create combos with graph-based nodes",
+  "Category": "Other",
+  "CreatedBy": "apokrif6",
+  "CreatedByURL": "https://apokrif6.github.io/",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "ComboGraphRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "PreDefault"
+    },
+    {
+      "Name": "ComboGraphEditor",
+      "Type": "Editor",
+      "LoadingPhase": "PreDefault"
+    }
+  ]
+}
